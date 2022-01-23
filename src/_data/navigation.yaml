@@ -1,5 +1,5 @@
 items:
   - text: Home
-    url: "#"
+    url: https://thirsty-hugle-1af7ef.netlify.app/
   - text: Blog
     url: /blog
